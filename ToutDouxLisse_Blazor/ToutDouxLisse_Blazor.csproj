@@ -16,10 +16,4 @@
         <ServiceWorker Include="wwwroot\service-worker.js" PublishedContent="wwwroot\service-worker.published.js" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Content Include="..\..\..\..\..\..\Downloads\service-worker.published.js">
-        <Link>wwwroot\service-worker.published.js</Link>
-      </Content>
-    </ItemGroup>
-
 </Project>
