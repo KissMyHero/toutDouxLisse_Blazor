@@ -33,11 +33,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-uPstbVy8MbZpSVLlxO4FBMhlEjhUebHXcAwnZUXmZSI=",
+      "hash": "sha256-tzgVBm6W7Jjr2fJsijR9LkGZMhqzn8+5L906w8bNI5g=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-U\/13Q5rVTtpIksXNgHV5b+RdHiwyuSejvbu5+VFJDcg=",
+      "hash": "sha256-Hk0G+1H97DoCIXUOLgCvtNGiqz5Dp0XgVu15zMaqFx0=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
@@ -97,7 +97,7 @@
       "url": "_framework\/System.Collections.Concurrent.dll"
     },
     {
-      "hash": "sha256-ziI27Cs1rr2ZCfcM2QKLibCi+aRtxXrJGdPo9YLR+zs=",
+      "hash": "sha256-0T2Uh8u3PP8R2pqprzTJe3+J1uRKcDGmClLhumIdWSg=",
       "url": "_framework\/System.Collections.dll"
     },
     {
@@ -121,7 +121,7 @@
       "url": "_framework\/System.Net.Primitives.dll"
     },
     {
-      "hash": "sha256-2WiPzCvJeJcUtfkWqTLfiohCl+XKr4DElGJX3ekWrpI=",
+      "hash": "sha256-\/5iOXjgYs5kTUDzuq05sQLkEkYfbJhF+5PUAACjUTzQ=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
@@ -137,7 +137,7 @@
       "url": "_framework\/System.Runtime.CompilerServices.Unsafe.dll"
     },
     {
-      "hash": "sha256-xI0vGvBYelHc9HRVxa0sOOMgEQHeQ6X\/wBaMkkEh5rg=",
+      "hash": "sha256-+89V4HOwf4ijoUZQfvaoAOkV2QrRIH40xJPQALGmMNk=",
       "url": "_framework\/System.Runtime.dll"
     },
     {
@@ -149,8 +149,12 @@
       "url": "_framework\/System.Text.Json.dll"
     },
     {
-      "hash": "sha256-XlNuWev92GmV+aWOmLTpRcsZD8s9CFu5C0x02q4jjGo=",
+      "hash": "sha256-LMcyBwdXoxC++Lferu4AsDYBwG1O7Q0OSvTIgIs17zw=",
       "url": "_framework\/ToutDouxLisse_Blazor.dll"
+    },
+    {
+      "hash": "sha256-hZfmL8zZY5q24ca3X4HMDYuNuO94q8pP5qaPtnHDf3M=",
+      "url": "_framework\/ToutDouxMetier.dll"
     },
     {
       "hash": "sha256-\/eCh61P17z9pAQrsmW3NNIbmXYjaIl3Jfa10xiM\/jqc=",
@@ -213,7 +217,7 @@
       "url": "icon-192.png"
     },
     {
-      "hash": "sha256-9bdlYqmd07vbiDhWBOtxFkFIL0AMbEWkhHLv3J+dcOI=",
+      "hash": "sha256-it4+abjgk2efPAXmTuRe31Y8galzW5RrfS2alSPF/U8=",
       "url": "index.html"
     },
     {
@@ -221,5 +225,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "DJrTKF3E"
+  "version": "KNZtvmsJ"
 };
