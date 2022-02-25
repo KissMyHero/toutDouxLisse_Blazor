@@ -33,11 +33,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-q\/SW7ailcIRtNjs77MD1ugqKnoluuUDaqLDH53FijTM=",
+      "hash": "sha256-OD7KyoXUWZOqGpfEgNj5A\/iYJad89Y2w1ddYoRQYfAk=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-Hk0G+1H97DoCIXUOLgCvtNGiqz5Dp0XgVu15zMaqFx0=",
+      "hash": "sha256-7dV1i810Gb5obZCazAUnon7EADswlKdJzqDBNFFYi3Q=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
@@ -105,7 +105,7 @@
       "url": "_framework\/System.ComponentModel.dll"
     },
     {
-      "hash": "sha256-dMvCJIwg84cuA5KdFuIioLN2BhYxDENLAEFqCGjr2VE=",
+      "hash": "sha256-ETwJQZBOuAPvJf10aGjN8QrZXA96pJ0FSD8tt7H2YkA=",
       "url": "_framework\/System.Linq.dll"
     },
     {
@@ -125,7 +125,7 @@
       "url": "_framework\/System.Net.Primitives.dll"
     },
     {
-      "hash": "sha256-YNY0X81QjG6b0Sjee2fmHdkUX3BXC0DikdWzKj+rZj4=",
+      "hash": "sha256-WeGRk6dqkFoeya5wLlrYzPcVsBpZngdjuqmas1W2Lpo=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
@@ -141,7 +141,7 @@
       "url": "_framework\/System.Runtime.CompilerServices.Unsafe.dll"
     },
     {
-      "hash": "sha256-cui97Ig+bLqt91OlUg6MRWHN5cFjq79jbdG0TzOzQ\/o=",
+      "hash": "sha256-9bib0FNjBciYtDCBdjXtk1tYhEw1TuXCmxUX3R9Omfg=",
       "url": "_framework\/System.Runtime.dll"
     },
     {
@@ -153,7 +153,7 @@
       "url": "_framework\/System.Text.Json.dll"
     },
     {
-      "hash": "sha256-2pani1xWRm4kxbA4J0a89LE+X3sIuDVdvJgOGKIDKTE=",
+      "hash": "sha256-5Gwf2mmL0fdPtNfrCtfWHB7o2j2yOzPadqdDkZKEKIA=",
       "url": "_framework\/ToutDouxLisse_Blazor.dll"
     },
     {
@@ -165,7 +165,7 @@
       "url": "ToutDouxLisse_Blazor.styles.css"
     },
     {
-      "hash": "sha256-kfXT+\/7PwnK7UBTMq8\/AX20+soj7u1sV\/U1lCtnmSZI=",
+      "hash": "sha256-ZIrLasxLbfdCcYLKxM4WzVFHHvaZ3qp9z5f5GAEtT9s=",
       "url": "css\/app.css"
     },
     {
@@ -221,7 +221,11 @@
       "url": "icon-192.png"
     },
     {
-      "hash": "sha256-it4+abjgk2efPAXmTuRe31Y8galzW5RrfS2alSPF/U8=",
+      "hash": "sha256-QD2hlMREqS5\/UZksGNAqE4vqJSYQolIRW6k0GA4\/3v8=",
+      "url": "img\/bg.jpeg"
+    },
+    {
+      "hash": "sha256-VVbR6Hdabv0vUn5xxnCeAhBvu0meeNIp6x89bbMA0+w=",
       "url": "index.html"
     },
     {
@@ -229,5 +233,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "JiLg8Z83"
+  "version": "Oicuti\/O"
 };
