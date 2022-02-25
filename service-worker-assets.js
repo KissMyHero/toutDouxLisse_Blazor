@@ -33,7 +33,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-tzgVBm6W7Jjr2fJsijR9LkGZMhqzn8+5L906w8bNI5g=",
+      "hash": "sha256-q\/SW7ailcIRtNjs77MD1ugqKnoluuUDaqLDH53FijTM=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -97,12 +97,16 @@
       "url": "_framework\/System.Collections.Concurrent.dll"
     },
     {
-      "hash": "sha256-0T2Uh8u3PP8R2pqprzTJe3+J1uRKcDGmClLhumIdWSg=",
+      "hash": "sha256-hNHr4WtlZikv\/1hsLfPXXsZpalh7PsmlX0UqoPD6n3A=",
       "url": "_framework\/System.Collections.dll"
     },
     {
       "hash": "sha256-TOeHn27zzrK+mlIlyYwc4whFVZeMr12ZGFQFSUsxBzA=",
       "url": "_framework\/System.ComponentModel.dll"
+    },
+    {
+      "hash": "sha256-dMvCJIwg84cuA5KdFuIioLN2BhYxDENLAEFqCGjr2VE=",
+      "url": "_framework\/System.Linq.dll"
     },
     {
       "hash": "sha256-mwfkRdI3z07kAbmL6k\/YoLIBA\/HjRUI00SBJDUDNCmk=",
@@ -121,7 +125,7 @@
       "url": "_framework\/System.Net.Primitives.dll"
     },
     {
-      "hash": "sha256-\/5iOXjgYs5kTUDzuq05sQLkEkYfbJhF+5PUAACjUTzQ=",
+      "hash": "sha256-YNY0X81QjG6b0Sjee2fmHdkUX3BXC0DikdWzKj+rZj4=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
@@ -137,7 +141,7 @@
       "url": "_framework\/System.Runtime.CompilerServices.Unsafe.dll"
     },
     {
-      "hash": "sha256-+89V4HOwf4ijoUZQfvaoAOkV2QrRIH40xJPQALGmMNk=",
+      "hash": "sha256-cui97Ig+bLqt91OlUg6MRWHN5cFjq79jbdG0TzOzQ\/o=",
       "url": "_framework\/System.Runtime.dll"
     },
     {
@@ -149,11 +153,11 @@
       "url": "_framework\/System.Text.Json.dll"
     },
     {
-      "hash": "sha256-LMcyBwdXoxC++Lferu4AsDYBwG1O7Q0OSvTIgIs17zw=",
+      "hash": "sha256-2pani1xWRm4kxbA4J0a89LE+X3sIuDVdvJgOGKIDKTE=",
       "url": "_framework\/ToutDouxLisse_Blazor.dll"
     },
     {
-      "hash": "sha256-hZfmL8zZY5q24ca3X4HMDYuNuO94q8pP5qaPtnHDf3M=",
+      "hash": "sha256-SbreLybqtj21eyaW7QoGYHKMgUgHvZiy1Isi9WVxty0=",
       "url": "_framework\/ToutDouxMetier.dll"
     },
     {
@@ -225,5 +229,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "KNZtvmsJ"
+  "version": "JiLg8Z83"
 };
