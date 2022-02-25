@@ -1,12 +1,18 @@
-﻿namespace ToutDouxMetier;
-public class Tache
+﻿namespace ToutDouxMetier
 {
-    public Tache(int id, string intitule)
+    /// <summary>
+    /// Une tâche de liste "to-do"
+    /// </summary>
+    public class Tache
     {
-        Id = id;
-        Intitule = intitule;
+        public Tache(string intitule)
+        {
+            Id = Guid.NewGuid();
+            Intitule = intitule;
+        }
+        public Guid Id { get; private init; }
+        public bool Fait { get; set; }
+        public string Intitule { get; set; }
+        public DateTime? Echeance { get; set; } = null;
     }
-    public int Id { get; private init; }
-    public bool Fait { get; set; }
-    public string Intitule { get; set; }
 }

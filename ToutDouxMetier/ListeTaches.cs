@@ -1,33 +1,45 @@
-namespace ToutDouxMetier;
+using System.Text;
 
-public class ListeTaches
+namespace ToutDouxMetier
 {
-    private int id = 0;
-    private Dictionary<int, Tache> listeTaches = new Dictionary<int, Tache>();
-
-    public ListeTaches(params string [] intituleTaches)
+    /// <summary>
+    /// Gère une liste de tâches de type "to-do"
+    /// </summary>
+    public class ListeTaches
     {
-        foreach(string intitule in intituleTaches)
+        private Dictionary<Guid, Tache> listeTaches = new ();
+
+        public ListeTaches(string nom, params string [] intituleTaches)
         {
-            Add(intitule);
+            Nom = nom;
+            foreach(string intitule in intituleTaches)
+            {
+                Add(intitule);
+            }
         }
-    }
-    public void Add(string intitule)
-    {
-        var tache = new Tache(++id, intitule);
+        public string Nom { get; set; }
+        public Tache Add(string intitule)
+        {
+            var tache = new Tache(intitule);
 
-        listeTaches.Add(tache.Id, tache);
-    }
+            listeTaches.Add(tache.Id, tache);
+            return tache;
+        }
+        
+        public void TriggerDone(Guid id)
+        {
+            listeTaches[id].Fait = !listeTaches[id].Fait;
+        }
 
-    public void TriggerDone(int id)
-    {
-        listeTaches[id].Fait = !listeTaches[id].Fait;
-    }
+        public void Remove(Guid id)
+        {
+            listeTaches.Remove(id);
+        }
 
-    public void Remove(int id)
-    {
-        listeTaches.Remove(id);
-    }
+        public IEnumerable<Tache> Taches => listeTaches.Values;
 
-    public IEnumerable<Tache> Taches => listeTaches.Values;
+        public override bool Equals(object? obj) => Nom == (obj as ListeTaches)?.Nom;
+
+        public override int GetHashCode() => Nom.GetHashCode();
+    }
 }
